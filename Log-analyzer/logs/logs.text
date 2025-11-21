@@ -1,0 +1,7 @@
+2025-01-11 12:01:22 INFO  Starting system check...
+2025-01-11 12:01:23 INFO  Loading configuration
+2025-01-11 12:01:24 WARN  Configuration value missing: timeout
+2025-01-11 12:01:25 ERROR Failed to load module X
+2025-01-11 12:01:26 INFO  Retrying module load
+2025-01-11 12:01:27 ERROR Module X failed again
+2025-01-11 12:01:29 INFO  System check completed
